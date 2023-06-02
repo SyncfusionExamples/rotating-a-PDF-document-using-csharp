@@ -6,10 +6,10 @@ This article will cover the process to rotate a page, text, image and table from
 
 Name | Description
 --- | ---
-[Rotating a page in PDF](https://github.com/SyncfusionExamples/rotating-a-PDF-document-using-csharp/master/RotatePDFPage) | It means changing the orientation of the page by a specified degree.
-[Rotating a text in PDF](https://github.com/SyncfusionExamples/rotating-a-PDF-document-using-csharp/master/RotatePDFText) | It means changing the orientation of the text by a specified degree.
-[Rotating an image in PDF](https://github.com/SyncfusionExamples/rotating-a-PDF-document-using-csharp/master/RotatePDFImage) | It means changing the orientation of the image by a specified degree.
-[Rotating a Table in PDF](https://github.com/SyncfusionExamples/rotating-a-PDF-document-using-csharp/master/RotatePDFTable) | It means changing the orientation of the table by a specified degree.
+[Rotating a page in PDF](https://github.com/SyncfusionExamples/rotating-a-PDF-document-using-csharp/tree/master/RotatePDFPage) | It means changing the orientation of the page by a specified degree.
+[Rotating a text in PDF](https://github.com/SyncfusionExamples/rotating-a-PDF-document-using-csharp/tree/master/RotatePDFText) | It means changing the orientation of the text by a specified degree.
+[Rotating an image in PDF](https://github.com/SyncfusionExamples/rotating-a-PDF-document-using-csharp/tree/master/RotatePDFImage) | It means changing the orientation of the image by a specified degree.
+[Rotating a Table in PDF](https://github.com/SyncfusionExamples/rotating-a-PDF-document-using-csharp/tree/master/RotatePDFTable) | It means changing the orientation of the table by a specified degree.
 
 
 
